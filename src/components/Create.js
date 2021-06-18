@@ -55,8 +55,6 @@ const Create = () => {
                 {author.name}
               </option>
             ))}
-          {/* <option value="Arthur Conan Doyle">Arthur Conan Doyle</option>
-          <option value="J. R. R. Tolkien">J. R. R. Tolkien</option> */}
         </select>
         <button>Add Book</button>
       </form>
