@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "title": "The Return of the King",
+      "description": "The Return of the King is the third and final volume of J. R. R. Tolkien's The Lord of the Rings, following The Fellowship of the Ring and The Two Towers. It was published in 1955. The story begins in the kingdom of Gondor, which is soon to be attacked by the Dark Lord Sauron.",
+      "author": "J. R. R. Tolkien",
+      "id": 1
+    },
+    {
+      "title": "The Sign of the Four",
+      "description": "The Sign of the Four is one of Sir Arthur Conan Doyle's Sherlock Holmes mystery stories. It was the second book to be published and one of the four full-length novels. In the story, Sherlock Holmes and the smitten Dr John Watson try to defeat a peg-legged man and his dwarf assistant while hunting for a fabled treasure. It was originally serialised in Lippincott's Monthly Magazine as The Sign of the Four, but collected in a single volume under the title The Sign of Four.",
+      "author": "Arthur Conan Doyle",
+      "id": 2
+    }
+  ],
+  "authors": [
+    {
+      "name": "J. R. R. Tolkien",
+      "id": 1
+    },
+    {
+      "name": "Arthur Conan Doyle",
+      "id": 2
+    }
+  ]
+}
